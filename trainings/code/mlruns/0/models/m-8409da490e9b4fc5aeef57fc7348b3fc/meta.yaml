@@ -1,0 +1,10 @@
+artifact_location: file:///Users/jiliarsilgado/Documents/datacamp/trainings/code/mlruns/0/models/m-8409da490e9b4fc5aeef57fc7348b3fc/artifacts
+creation_timestamp: 1759608935609
+experiment_id: '0'
+last_updated_timestamp: 1759608937054
+model_id: m-8409da490e9b4fc5aeef57fc7348b3fc
+model_type: null
+name: forest_reg
+source_run_id: 4aca883eb12e4e188f530b379a866d0d
+status: 2
+status_message: null

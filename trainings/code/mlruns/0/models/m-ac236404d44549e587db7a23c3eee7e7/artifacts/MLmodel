@@ -1,0 +1,22 @@
+artifact_path: file:///Users/jiliarsilgado/Documents/datacamp/trainings/code/mlruns/0/models/m-ac236404d44549e587db7a23c3eee7e7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-ac236404d44549e587db7a23c3eee7e7
+model_size_bytes: 1263
+model_uuid: m-ac236404d44549e587db7a23c3eee7e7
+prompts: null
+run_id: d8e04dca064647d1818627c9ca002b04
+utc_time_created: '2025-10-04 20:15:56.132844'

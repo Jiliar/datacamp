@@ -1,0 +1,10 @@
+artifact_location: file:///Users/jiliarsilgado/Documents/datacamp/trainings/code/mlruns/0/models/m-01f75c7c594545e3a84339078949ae73/artifacts
+creation_timestamp: 1759608718784
+experiment_id: '0'
+last_updated_timestamp: 1759608720105
+model_id: m-01f75c7c594545e3a84339078949ae73
+model_type: null
+name: lin_reg
+source_run_id: f7e7ae22c852486db2b7dd9043009c45
+status: 2
+status_message: null

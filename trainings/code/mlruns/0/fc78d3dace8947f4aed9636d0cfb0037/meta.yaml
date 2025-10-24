@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jiliarsilgado/Documents/datacamp/trainings/code/mlruns/0/fc78d3dace8947f4aed9636d0cfb0037/artifacts
+end_time: 1759608999372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc78d3dace8947f4aed9636d0cfb0037
+run_name: run_0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759608994224
+status: 3
+tags: []
+user_id: jiliarsilgado
